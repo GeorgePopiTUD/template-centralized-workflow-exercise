@@ -8,6 +8,6 @@
 - peas
 - mushrooms
 - onions
-- love
+- hate
 
 ## TODO: we need the instructions
