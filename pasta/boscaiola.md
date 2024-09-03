@@ -1,7 +1,7 @@
 # Pasta boscaiola recipe
 
 
-## Ingerdients
+## Ingredients
 
 - rigatoni
 - pancetta
